@@ -76,6 +76,6 @@ Digite o comando para executar o script:
 python grafico_interativo.py
 ```
 
-(ou py `grafico_interativo.py`)
+(ou `py grafico_interativo.py`)
 
 O script será executado no terminal e abrirá automaticamente o gráfico interativo no seu navegador padrão.
